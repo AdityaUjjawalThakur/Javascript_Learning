@@ -1,1 +1,1 @@
-# Javascript_Learning
+# Javascript_Learning Through Mini Projects
