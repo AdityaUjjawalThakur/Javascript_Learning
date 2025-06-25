@@ -58,3 +58,4 @@ Add a "clear" button for input fields and results.
 
 Integrate a dropdown for plot options (short/full).
 https://javascript-learning-e566.vercel.app/
+
